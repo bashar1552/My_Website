@@ -20,7 +20,7 @@ button.addEventListener("click", () => {
     }
 });
 AOS.init({
-  duration: 800, // مدة الحركة
-  once: true     // تظهر مرة واحدة فقط
+  duration: 800, // الوئت
+  once: true     // 
 });
 
